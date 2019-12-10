@@ -1,6 +1,6 @@
 # Timeseries_PCA
 
-An investigation of reducing the dimension of timeseries data using PCA. The data in question is 1, 2, 3, 5, 7 and 10 year constant maturity treasury data from the Federal Reserach Bank of St. Louis.
+Dimensionality reduction of timeseries data using PCA. The data in question is 1, 2, 3, 5, 7 and 10 year constant maturity treasury data from the Federal Reserach Bank of St. Louis.
 
 The data was queried using the Fred API: https://github.com/mortada/fredapi to obtain 1,
 2, 3, 5, 7 and 10 year constant maturity treasury data series. Data of 1Y, 2Y, 5Y and 10Y go
