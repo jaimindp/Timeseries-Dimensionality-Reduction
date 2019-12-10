@@ -22,7 +22,7 @@ Plotting the 3 principal components against time in Figure 2, component 1 follow
 trend to that of Figure 1 (for the years included). Note the y-axis for reduced dimension data
 does not have physical meaning.
 
-![Image description](link-to-image)
+![Image description](https://github.com/jaimindp/Timeseries_PCA/blob/master/images/reduced_dimensions.png)
 
 Figure 2: Three Principal Components over time
 To look at the stability of the reduced components over time, the proportion of explained
@@ -37,6 +37,7 @@ nearly 100% of the variation. Component 3 generally explains less than 1% of the
 plot indicates that the reduced dimensions are reasonably stable over time however from 2004 -
 2006 it is slightly more unstable.
 
+![Image description](https://github.com/jaimindp/Timeseries_PCA/blob/master/images/variation_proportion.png)
 
 Figure 3: Explained variation proportion using a 12 month rolling covariance matrix
 Part 3: Evaluating similarity for the historical data all 6 series. The first component of the
@@ -53,3 +54,6 @@ computed as the most similar year to 2019. Figure 4 compares of the first princi
 of 2003 compared to 2019, note that because the dimensions have been reduced the y axis
 does not have any meaningful value and is an arbitrary scale.
 Figure 4: 1st principal component of 2019 compared with 2003
+
+![Image description](https://github.com/jaimindp/Timeseries_PCA/blob/master/images/2019_2003.png)
+
