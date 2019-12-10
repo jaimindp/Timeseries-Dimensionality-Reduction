@@ -1,4 +1,4 @@
-# Timeseries_PCA
+# Timeseries-Dimensionality-Reduction
 
 Dimensionality reduction of timeseries data using PCA. The data in question is 1, 2, 3, 5, 7 and 10 year constant maturity treasury data from the Federal Reserach Bank of St. Louis.
 
