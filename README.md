@@ -7,7 +7,7 @@ Figure 1: Constant maturity treasury data for all 6 data series
 Initial analysis of the dataset shows a high correlation in the 6 data series. It is observed that a
 higher year Constant Maturity Treasury rate increases the percentage yield.
 
-![Image description]https://github.com/jaimindp/Timeseries_PCA/blob/master/images/tot_data.png
+![Image description](https://github.com/jaimindp/Timeseries_PCA/blob/master/images/tot_data.png)
 
 Part 2: Principal Component Analysis (PCA) was selected to reduce the dimensionality of the
 dataset. PCA transforms the dataset, reducing it to a selected number (3) of dimensions. As
